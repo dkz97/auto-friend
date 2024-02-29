@@ -1,6 +1,6 @@
 {
   "name": "auto-friend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -10,11 +10,11 @@
     "node": ">= 14.0.0",
     "npm": ">= 6.0.0"
   },
-  "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/dkz97/auto-friend.git"
   },
+  "homepage": "https://github.com/dkz97/auto-friend",
   "bugs": "",
   "keywords": [],
   "author": {
